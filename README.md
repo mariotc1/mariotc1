@@ -9,7 +9,8 @@
 ---
 
 ## Resumen profesional
-Soy técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente completando DAW. Mi foco es construir proyectos completos, mantenibles y preparados para producción. Busco prácticas profesionales que me permitan consolidar experiencia real y crecer hacia un puesto que me permita vivir de la programación.
+Soy técnico superior en Desarrollo de Aplicaciones Multiplataforma y en Desarrollo de Aplicaciones Web. Mi foco es construir proyectos completos, mantenibles y preparados para producción. 
+Busco prácticas profesionales que me permitan consolidar experiencia real y crecer hacia un puesto que me permita vivir de la programación.
 
 ---
 
@@ -21,7 +22,7 @@ Soy técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actu
 
 ---
 
-## Badges (estado rápido)
+## Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact)](https://github.com/mariotc1)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true)](https://github.com/mariotc1)
 
@@ -32,7 +33,7 @@ Soy técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actu
 ---
 
 ## Proyectos destacados
-A continuación tienes los repositorios más relevantes. Cada enlace apunta al repo con README preparado (me encargo de mejorar los README de cada uno si quieres).
+A continuación tienes los repositorios más relevantes. Cada enlace apunta al repo con README preparado:
 
 | Proyecto | Stack | Descripción |
 |---|---:|---|
@@ -61,30 +62,11 @@ A continuación tienes los repositorios más relevantes. Cada enlace apunta al r
 
 ---
 
-## Cómo estructuro los READMEs de cada proyecto (estándar)
-Cada README de repo debe incluir:
-- Título corto + descripción en 1-2 líneas.  
-- Badges (estado, lenguaje, licencia).  
-- Capturas (`docs/screenshots/`) o GIF demo.  
-- Instalación / requisitos (comandos claros).  
-- Ejecución local (pasos concretos).  
-- Tests / cómo probar.  
-- Licencia y contacto.
-
-Si quieres, te genero README listos para dos repos que elijas y te doy las imágenes optimizadas y el GIF.
-
----
-
-## Automatización de actividad y transparencia
-Si activas un workflow que haga commits diarios, te recomiendo que esos commits contengan valor (por ejemplo: notas de aprendizaje diarias en `notes/`, logs de pruebas, capturas pequeñas). Evita crear actividad “vacía”. Si deseas, genero el workflow que actualiza `notes/learning.md` con un formato profesional para que se vea como diario técnico.
-
----
-
 ## Contacto y enlaces
 - GitHub: https://github.com/mariotc1  
 - Portfolio / landing: https://mariotc1.github.io  
-- Email: sustituye-por-tu-email@example.com  
-- LinkedIn: sustituye-por-tu-linkedin
+- Email: mariotomecore@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mario-tomé-core-114551343/
 
 ---
 
