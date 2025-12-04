@@ -1,68 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1220"/>
-      <stop offset="100%" stop-color="#0f2a3a"/>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#081522" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#0a1a2a" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#081522" stop-opacity="0.8"/>
+    
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0.3" />
     </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+
+  <!-- Fondo con gradiente -->
+  <rect width="1200" height="300" fill="#0d1117"/>
   
-  <!-- Fondo principal -->
-  <rect width="1200" height="300" fill="url(#bg1)"/>
+  <!-- Círculos decorativos animados -->
+  <circle cx="100" cy="100" r="80" fill="url(#grad2)" opacity="0.5">
+    <animate attributeName="r" values="80;100;80" dur="3s" repeatCount="indefinite"/>
+  </circle>
   
-  <!-- Ondas decorativas -->
-  <path d="M0,100 Q300,60 600,100 T1200,100 L1200,300 L0,300 Z" 
-        fill="url(#wave1)" opacity="0.4"/>
-  <path d="M0,140 Q300,100 600,140 T1200,140 L1200,300 L0,300 Z" 
-        fill="#081522" opacity="0.3"/>
+  <circle cx="1100" cy="200" r="60" fill="url(#grad2)" opacity="0.5">
+    <animate attributeName="r" values="60;80;60" dur="4s" repeatCount="indefinite"/>
+  </circle>
   
-  <!-- Círculo con sombra para el avatar -->
-  <circle cx="150" cy="150" r="75" fill="#000000" opacity="0.2" 
-          transform="translate(3, 5)"/>
-  <circle cx="150" cy="150" r="75" fill="#1a3a4a" stroke="#2a4a5a" stroke-width="3"/>
+  <circle cx="600" cy="50" r="40" fill="url(#grad2)" opacity="0.5">
+    <animate attributeName="r" values="40;60;40" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Líneas de código decorativas -->
+  <rect x="50" y="80" width="200" height="3" fill="#6366F1" opacity="0.3"/>
+  <rect x="50" y="100" width="150" height="3" fill="#8B5CF6" opacity="0.3"/>
+  <rect x="50" y="120" width="180" height="3" fill="#EC4899" opacity="0.3"/>
   
-  <text x="150" y="180" font-size="80" text-anchor="middle" 
-        style="user-select: none;">👨‍💻</text>
-  
-  <!-- Contenedor de texto -->
-  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
-    <!-- Nombre -->
-    <text x="260" y="100" font-size="42" font-weight="700" fill="#cfe7ff">
-      Mario Tomé Core
-    </text>
-    
-    <!-- Subtítulo -->
-    <text x="260" y="140" font-size="20" fill="#9fbdd8" font-weight="500">
-      Desarrollador Full Stack — Especialidad Python
-    </text>
-    
-    <!-- Skills con separadores -->
-    <text x="260" y="175" font-size="15" fill="#8fb0c8">
-      PyQt5 • Flask • Python • Java • Android • Flutter • SQL
-    </text>
-  </g>
-  
-  <rect x="260" y="200" width="900" height="70" rx="12" 
-        fill="#0a1a2a" opacity="0.8" stroke="#2a4a5a" stroke-width="1"/>
-  
-  <text x="280" y="225" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" 
-        font-size="13" fill="#8fb0c8" font-weight="600">
-    📌 PROYECTOS DESTACADOS
+  <rect x="950" y="80" width="200" height="3" fill="#10B981" opacity="0.3"/>
+  <rect x="1000" y="100" width="150" height="3" fill="#F59E0B" opacity="0.3"/>
+  <rect x="970" y="120" width="180" height="3" fill="#3B82F6" opacity="0.3"/>
+
+  <!-- Texto principal -->
+  <text x="600" y="140" font-family="'Courier New', monospace" font-size="48" font-weight="bold" 
+        fill="url(#grad1)" text-anchor="middle" filter="url(#glow)">
+    Mario Tomé Core
   </text>
   
-  <text x="280" y="253" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" 
-        font-size="17" fill="#d4eefc" font-weight="500">
-    PomodoroProApp · fantasyHelper · CRM_Python · AppStockDB
+  <text x="600" y="180" font-family="'Courier New', monospace" font-size="20" 
+        fill="#c9d1d9" text-anchor="middle" opacity="0.8">
+    &lt;/&gt; Desarrollador Full Stack · Python | Java | JS | PHP
   </text>
   
-  <g opacity="0.3">
-    <circle cx="1100" cy="50" r="30" fill="none" stroke="#4a90b8" stroke-width="2"/>
-    <circle cx="1100" cy="50" r="20" fill="none" stroke="#4a90b8" stroke-width="1"/>
-    <rect x="1050" y="250" width="40" height="4" rx="2" fill="#4a90b8"/>
-    <rect x="1100" y="250" width="60" height="4" rx="2" fill="#4a90b8"/>
-  </g>
+  <!-- Iconos decorativos -->
+  <text x="420" y="185" font-size="24" opacity="0.6">💻</text>
+  <text x="760" y="185" font-size="24" opacity="0.6">🚀</text>
+  
+  <!-- Línea inferior decorativa -->
+  <line x1="300" y1="220" x2="900" y2="220" stroke="url(#grad1)" stroke-width="2" opacity="0.5">
+    <animate attributeName="x1" values="300;320;300" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="900;880;900" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Texto inferior -->
+  <text x="600" y="260" font-family="Arial, sans-serif" font-size="16" 
+        fill="#8B949E" text-anchor="middle" font-style="italic">
+    "Construyendo el futuro, una línea de código a la vez"
+  </text>
 </svg>

@@ -1,87 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<svg width="1200" height="150" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1220"/>
-      <stop offset="100%" stop-color="#071420"/>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="topWave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f2a3a" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#1a3a4a" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#0f2a3a" stop-opacity="0.6"/>
+    
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
     </linearGradient>
   </defs>
+
+  <!-- Fondo -->
+  <rect width="1200" height="150" fill="url(#bgGrad)"/>
   
-  <!-- Fondo principal -->
-  <rect width="1200" height="120" fill="url(#footerBg)"/>
+  <!-- Onda superior animada -->
+  <path d="M 0 30 Q 300 10, 600 30 T 1200 30 L 1200 0 L 0 0 Z" fill="url(#footerGrad)" opacity="0.3">
+    <animate attributeName="d" 
+             values="M 0 30 Q 300 10, 600 30 T 1200 30 L 1200 0 L 0 0 Z;
+                     M 0 30 Q 300 50, 600 30 T 1200 30 L 1200 0 L 0 0 Z;
+                     M 0 30 Q 300 10, 600 30 T 1200 30 L 1200 0 L 0 0 Z"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </path>
   
-  <!-- Onda superior decorativa -->
-  <path d="M0,0 Q300,25 600,0 T1200,0 L1200,30 L0,30 Z" 
-        fill="url(#topWave)" opacity="0.5"/>
+  <!-- Línea divisoria animada -->
+  <line x1="100" y1="50" x2="1100" y2="50" stroke="url(#footerGrad)" stroke-width="2" opacity="0.6">
+    <animate attributeName="stroke-dasharray" values="0 2000; 2000 0; 0 2000" dur="3s" repeatCount="indefinite"/>
+  </line>
   
-  <!-- Línea divisoria superior con degradado -->
-  <line x1="0" y1="0" x2="1200" y2="0" stroke="#2a4a5a" stroke-width="2"/>
-  
-  <!-- Contenedor central con borde sutil -->
-  <rect x="60" y="35" width="1080" height="50" rx="8" 
-        fill="#0a1a2a" opacity="0.6" stroke="#1a3a4a" stroke-width="1"/>
-  
-  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
-    <!-- Ícono de copyright -->
-    <text x="85" y="67" font-size="20" fill="#4a90b8">©</text>
-    
-    <!-- Texto principal -->
-    <text x="115" y="58" font-size="15" fill="#cfe7ff" font-weight="600">
-      Mario Tomé Core
-    </text>
-    
-    <!-- Separador -->
-    <text x="250" y="58" font-size="14" fill="#4a90b8">|</text>
-    
-    <!-- Descripción -->
-    <text x="270" y="58" font-size="14" fill="#9fbdd8">
-      Desarrollo Full Stack
-    </text>
-    
-    <!-- Separador -->
-    <text x="430" y="58" font-size="14" fill="#4a90b8">•</text>
-    
-    <!-- Formación -->
-    <text x="450" y="58" font-size="14" fill="#9fbdd8">
-      CFGS DAM y DAW
-    </text>
-    
-    <!-- Línea inferior con info de contacto -->
-    <text x="115" y="77" font-size="12" fill="#6fa9cc">
-      📧 Contacto disponible en README
-    </text>
-    
-    <text x="350" y="77" font-size="12" fill="#6fa9cc">
-      •
-    </text>
-    
-    <text x="365" y="77" font-size="12" fill="#6fa9cc">
-      ⭐ Portafolio en constante actualización
-    </text>
+  <!-- Estrellas decorativas -->
+  <g opacity="0.7">
+    <circle cx="150" cy="80" r="2" fill="#F59E0B">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="90" r="2" fill="#10B981">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="75" r="2" fill="#3B82F6">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="85" r="2" fill="#EC4899">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
   </g>
   
-  <!-- Elementos decorativos en las esquinas -->
-  <g opacity="0.3">
-    <!-- Esquina izquierda -->
-    <circle cx="30" cy="60" r="4" fill="#4a90b8"/>
-    <circle cx="30" cy="60" r="8" fill="none" stroke="#4a90b8" stroke-width="1"/>
-    
-    <!-- Esquina derecha -->
-    <rect x="1150" y="50" width="20" height="3" rx="1.5" fill="#4a90b8"/>
-    <rect x="1150" y="58" width="30" height="3" rx="1.5" fill="#4a90b8"/>
-    <rect x="1150" y="66" width="25" height="3" rx="1.5" fill="#4a90b8"/>
-  </g>
+  <!-- Texto principal -->
+  <text x="600" y="90" font-family="'Courier New', monospace" font-size="18" 
+        fill="url(#footerGrad)" text-anchor="middle" font-weight="bold">
+    ⚡ Gracias por visitar mi perfil ⚡
+  </text>
   
-  <!-- Pequeños puntos decorativos -->
-  <g fill="#2a4a5a" opacity="0.6">
-    <circle cx="100" cy="15" r="2"/>
-    <circle cx="250" cy="20" r="2"/>
-    <circle cx="600" cy="12" r="2"/>
-    <circle cx="950" cy="18" r="2"/>
-    <circle cx="1100" cy="15" r="2"/>
+  <text x="600" y="115" font-family="Arial, sans-serif" font-size="14" 
+        fill="#8B949E" text-anchor="middle">
+    © 2025 Mario Tomé Core · Hecho con ❤️ y mucho ☕️
+  </text>
+  
+  <!-- Enlaces sociales como iconos -->
+  <g transform="translate(500, 130)">
+    <a href="https://github.com/mariotc1">
+      <circle cx="0" cy="0" r="8" fill="#6366F1" opacity="0.8">
+        <animate attributeName="r" values="8;10;8" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="0" y="5" font-size="10" fill="white" text-anchor="middle" font-weight="bold">GH</text>
+    </a>
+    
+    <a href="https://linkedin.com/in/mario-tomé-core-114551343/">
+      <circle cx="40" cy="0" r="8" fill="#8B5CF6" opacity="0.8">
+        <animate attributeName="r" values="8;10;8" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="40" y="5" font-size="10" fill="white" text-anchor="middle" font-weight="bold">LI</text>
+    </a>
+    
+    <a href="https://mariotc1.github.io">
+      <circle cx="80" cy="0" r="8" fill="#EC4899" opacity="0.8">
+        <animate attributeName="r" values="8;10;8" dur="2.1s" repeatCount="indefinite"/>
+      </circle>
+      <text x="80" y="5" font-size="10" fill="white" text-anchor="middle" font-weight="bold">WEB</text>
+    </a>
+    
+    <a href="mailto:mariotomecore@gmail.com">
+      <circle cx="120" cy="0" r="8" fill="#10B981" opacity="0.8">
+        <animate attributeName="r" values="8;10;8" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="120" y="5" font-size="9" fill="white" text-anchor="middle" font-weight="bold">✉</text>
+    </a>
   </g>
 </svg>
