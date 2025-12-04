@@ -32,8 +32,17 @@ Busco prácticas profesionales que me permitan consolidar experiencia real.
 
 ## Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&theme=dark&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&theme=dark" width="49%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true"
+    alt="Estadísticas de GitHub" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&langs_count=8"
+    alt="Lenguajes más usados" 
+  />
 </p>
 
 ---
