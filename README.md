@@ -32,24 +32,23 @@ Busco prácticas profesionales que me permitan consolidar experiencia real.
 
 ## Estadísticas de GitHub
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true"
-    alt="Estadísticas de GitHub" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&langs_count=8"
-    alt="Lenguajes más usados" 
-  />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+alt="Estadísticas de GitHub" 
+height="180"
+/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"
+alt="Lenguajes más usados" 
+height="180"
+/>
 </p>
 
 ---
 
 ## Racha de contribuciones
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariotc1&theme=dark" />
+<img src="https://streak-stats.demolab.com/?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -59,9 +58,13 @@ Busco prácticas profesionales que me permitan consolidar experiencia real.
 
 ---
 
-## Serpiente
+## Serpiente de contribuciones
 <p align="center">
-  <img src="https://github.com/mariotc1/mariotc1/blob/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariotc1/mariotc1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariotc1/mariotc1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mariotc1/mariotc1/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ---
