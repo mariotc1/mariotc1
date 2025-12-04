@@ -32,29 +32,23 @@ Busco prácticas profesionales que me permitan consolidar experiencia real.
 
 ## Estadísticas de GitHub
 <p align="center">
-<img 
-src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
-alt="Estadísticas de GitHub" 
-height="180"
-/>
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"
-alt="Lenguajes más usados" 
-height="180"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Lenguajes más usados" height="180"/>
 </p>
 
 ---
 
 ## Racha de contribuciones
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## Actividad de GitHub
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=mariotc1&theme=react-dark&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariotc1&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Gráfico de actividad" width="100%"/>
+</p>
 
 ---
 
