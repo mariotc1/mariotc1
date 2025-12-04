@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Python+%7C+Java+%7C+Flutter+%F0%9F%92%BB;Creando+soluciones+innovadoras+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Python+%7C+Java+%7C+JS;Creando+soluciones+innovadoras" alt="Typing SVG" />
 </p>
 
 <!-- Badges y Redes Sociales -->
