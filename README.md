@@ -116,8 +116,11 @@ yo = DesarrolladorFullStack()
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Lenguajes más usados" height="180"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8)
+
 </div>
 
 ---
@@ -125,7 +128,9 @@ yo = DesarrolladorFullStack()
 ## 🔥 Racha de Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1)
+
 </p>
 
 ---
@@ -133,7 +138,9 @@ yo = DesarrolladorFullStack()
 ## 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariotc1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mariotc1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
 </p>
 
 ---
@@ -141,7 +148,9 @@ yo = DesarrolladorFullStack()
 ## 📈 Gráfico de Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariotc1&custom_title=Actividad%20de%20GitHub&hide_border=true&bg_color=0d1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true" alt="Gráfico de actividad" width="100%"/>
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mariotc1&custom_title=Actividad%20de%20GitHub&hide_border=true&bg_color=0d1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true)
+
 </p>
 
 ---
@@ -175,7 +184,7 @@ yo = DesarrolladorFullStack()
       <h3 align="center">PomodoroApp</h3>
       <p align="center">
         <a href="https://github.com/mariotc1/PomodoroApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=PomodoroApp&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="PomodoroApp"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=PomodoroApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1" alt="PomodoroApp"/>
         </a>
       </p>
       <p align="center">
@@ -188,7 +197,7 @@ yo = DesarrolladorFullStack()
       <h3 align="center">CapitalQuiz</h3>
       <p align="center">
         <a href="https://github.com/mariotc1/CapitalQuiz">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=CapitalQuiz&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CapitalQuiz"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=CapitalQuiz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1" alt="CapitalQuiz"/>
         </a>
       </p>
       <p align="center">
@@ -208,7 +217,7 @@ yo = DesarrolladorFullStack()
       <h3 align="center">CRM Python</h3>
       <p align="center">
         <a href="https://github.com/mariotc1/CRM_Python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=CRM_Python&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CRM_Python"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=CRM_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1" alt="CRM_Python"/>
         </a>
       </p>
       <p align="center">
@@ -221,7 +230,7 @@ yo = DesarrolladorFullStack()
       <h3 align="center">AppStockDB</h3>
       <p align="center">
         <a href="https://github.com/mariotc1/AppStockDB-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=AppStockDB-&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AppStockDB"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=AppStockDB-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1" alt="AppStockDB"/>
         </a>
       </p>
       <p align="center">
@@ -241,7 +250,7 @@ yo = DesarrolladorFullStack()
       <h3 align="center">Portfolio Personal</h3>
       <p align="center">
         <a href="https://github.com/mariotc1/mariotc1.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=mariotc1.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Portfolio"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=mariotc1.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1" alt="Portfolio"/>
         </a>
       </p>
       <p align="center">
@@ -255,7 +264,7 @@ yo = DesarrolladorFullStack()
       <h3 align="center">Pomodoro Landing</h3>
       <p align="center">
         <a href="https://github.com/mariotc1/pomodoro-landing">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=pomodoro-landing&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pomodoro Landing"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotc1&repo=pomodoro-landing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1" alt="Pomodoro Landing"/>
         </a>
       </p>
       <p align="center">
