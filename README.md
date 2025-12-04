@@ -32,8 +32,8 @@ Busco prácticas profesionales que me permitan consolidar experiencia real.
 
 ## Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Lenguajes más usados" height="180"/>
+<img src="https://https://vercel.com/mario-s-projects-52584ccc/github-readme-stats/EKyLoHNwnunTjSV3keUvb5zVTRFT/api?username=mariotc1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" height="180"/>
+<img src="https://https://vercel.com/mario-s-projects-52584ccc/github-readme-stats/EKyLoHNwnunTjSV3keUvb5zVTRFT/api/top-langs/?username=mariotc1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" height="180"/>
 </p>
 
 ---
