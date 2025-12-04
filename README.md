@@ -28,10 +28,10 @@
 class DesarrolladorFullStack:
     def __init__(self):
         self.nombre = "Mario Tomé Core"
-        self.ubicacion = "Madrid, España 🇪🇸"
+        self.ubicacion = "Valladolid, España"
         self.educacion = [
-            "Técnico Superior DAM 🎓",
-            "Técnico Superior DAW 🌐"
+            "Técnico Superior DAM",
+            "Técnico Superior DAW"
         ]
         self.objetivo = "Prácticas profesionales - Experiencia real"
         self.pasion = "Construir proyectos completos y escalables"
