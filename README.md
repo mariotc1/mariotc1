@@ -113,25 +113,22 @@ yo = DesarrolladorFullStack()
 
 ---
 
-## 📊 Estadísticas de GitHub
-
+📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Lenguajes más usados" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=280" alt="Lenguajes más usados" height="180"/>
 </div>
 
 ---
 
-## 🔥 Racha de Contribuciones
-
+🔥 Racha de Contribuciones
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mariotc1&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 Trofeos de GitHub
-
+🏆 Trofeos de GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mariotc1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
 </p>
