@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Python+%7C+Java+%7C+JS;Creando+soluciones+innovadoras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Python+%7C+Java+%7C+JS+%7C+PHP;Creando+soluciones+innovadoras" alt="Typing SVG" />
 </p>
 
 <!-- Badges y Redes Sociales -->
@@ -165,13 +165,6 @@ yo = DesarrolladorFullStack()
 
 ---
 
-## 📌 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🚀 Proyectos Destacados
 
 <div align="center">
@@ -193,7 +186,7 @@ yo = DesarrolladorFullStack()
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
       </p>
-      <p align="center">App móvil de productividad con técnica Pomodoro. Incluye gestión de tareas, temporizador personalizable y estadísticas detalladas de uso.</p>
+      <p align="center">App móvil de productividad con técnica Pomodoro. Incluye gestión de tareas, temporizador personalizable y bloqueo de apps.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌍 CapitalQuiz</h3>
