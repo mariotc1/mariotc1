@@ -56,10 +56,6 @@
     &lt;/&gt; Desarrollador Full Stack · Python | Java | JS | PHP
   </text>
   
-  <!-- Iconos decorativos -->
-  <text x="420" y="185" font-size="24" opacity="0.6">💻</text>
-  <text x="760" y="185" font-size="24" opacity="0.6">🚀</text>
-  
   <!-- Línea inferior decorativa -->
   <line x1="300" y1="220" x2="900" y2="220" stroke="url(#grad1)" stroke-width="2" opacity="0.5">
     <animate attributeName="x1" values="300;320;300" dur="2s" repeatCount="indefinite"/>
