@@ -1,4 +1,4 @@
-<!-- Banner: usa el SVG que subiste a assets/banner.svg -->
+<!-- Banner -->
 <p align="center">
   <img src="./assets/banner.svg" alt="Banner - Mario Tomé Core" width="100%"/>
 </p>
@@ -9,8 +9,9 @@
 ---
 
 ## Resumen profesional
-Soy técnico superior en Desarrollo de Aplicaciones Multiplataforma y en Desarrollo de Aplicaciones Web. Mi foco es construir proyectos completos, mantenibles y preparados para producción. 
-Busco prácticas profesionales que me permitan consolidar experiencia real y crecer hacia un puesto que me permita vivir de la programación.
+Soy técnico superior en Desarrollo de Aplicaciones Multiplataforma y en Desarrollo de Aplicaciones Web.  
+Mi foco es construir proyectos completos, mantenibles y listos para producción.  
+Busco prácticas profesionales que me permitan consolidar experiencia real.
 
 ---
 
@@ -22,55 +23,66 @@ Busco prácticas profesionales que me permitan consolidar experiencia real y cre
 
 ---
 
-## Badges
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact)](https://github.com/mariotc1)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&count_private=true)](https://github.com/mariotc1)
+## Badges / Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,flutter,androidstudio,mysql,sqlite,git,vscode" />
+</p>
 
-![Estado del proyecto](https://img.shields.io/badge/estado-En%20desarrollo-yellow) 
-![Licencia](https://img.shields.io/badge/licencia-MIT-green) 
-![Stack principal](https://img.shields.io/badge/stack-Python%20%7C%20Flutter-blue)
+---
+
+## Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariotc1&show_icons=true&theme=dark&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotc1&layout=compact&theme=dark" width="49%" />
+</p>
+
+---
+
+## Racha de contribuciones
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mariotc1&theme=dark" />
+</p>
+
+---
+
+## Actividad de GitHub
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=mariotc1&theme=react-dark&area=true)
+
+---
+
+## Serpiente
+<p align="center">
+  <img src="https://github.com/mariotc1/mariotc1/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## Proyectos destacados
-A continuación tienes los repositorios más relevantes. Cada enlace apunta al repo con README preparado:
-
 | Proyecto | Stack | Descripción |
 |---|---:|---|
-| [PomodoroApp](https://github.com/mariotc1/PomodoroApp) | Flutter / Supabase | Aplicación móvil principal — temporizador Pomodoro, estadísticas y sincronización. |
-| [pomodoro-landing](https://github.com/mariotc1/pomodoro-landing) | HTML / JS | Landing y marketing del proyecto PomodoroProApp. |
-| [fantasyHelper](https://github.com/mariotc1/fantasyHelper) | Python | Asistente que sugiere alineaciones scraping datos públicos. |
-| [CRM_Python](https://github.com/mariotc1/CRM_Python) | Python · PyQt5 | CRM de escritorio hecho en CFGS DAM — gestión y formularios. |
-| [AppStockDB-](https://github.com/mariotc1/AppStockDB-) | Python · Flask · PyQt5 | TFG — gestión de stock con API REST y cliente de escritorio. |
-| [CapitalQuiz](https://github.com/mariotc1/CapitalQuiz) | Java / Android | Juego educativo sobre capitales del mundo. |
-| [mariotc1.github.io](https://github.com/mariotc1/mariotc1.github.io) | GitHub Pages | Portafolio y demostraciones/landing. |
-| [appTaller](https://github.com/mariotc1/appTaller) | Java | Práctica de módulo móvil con roles y funcionalidades. |
-| [desarrollo_web_entorno_servidor](https://github.com/mariotc1/desarrollo_web_entorno_servidor) | PHP · DWES | Apuntes y prácticas del módulo DWES. |
-| [dessing_de_interfaces_web](https://github.com/mariotc1/dessing_de_interfaces_web) | DWEC | Apuntes y prácticas de diseño de interfaces web. |
-| [despliegue-aplicaciones-web](https://github.com/mariotc1/despliegue-aplicaciones-web) | DevOps básico | Contenido y prácticas de despliegue. |
-| [desarrollo_web_entorno_cliente](https://github.com/mariotc1/desarrollo_web_entorno_cliente) | DWEC | Apuntes y prácticas de cliente web. |
-
-> Recomendación inmediata: pinnea 6 repositorios que más quieras destacar en tu perfil (PomodoroApp, pomodoro-landing, fantasyHelper, CRM_Python, AppStockDB-, CapitalQuiz).
+| [PomodoroApp](https://github.com/mariotc1/PomodoroApp) | Swift / Firebase | App móvil Pomodoro |
+| [pomodoro-landing](https://github.com/mariotc1/pomodoro-landing) | HTML / CSS / JS  | Landing del proyecto |
+| [fantasyHelper](https://github.com/mariotc1/fantasyHelper) | Python | Asistente fantasy |
+| [CRM_Python](https://github.com/mariotc1/CRM_Python) | Python · PyQt5 | CRM escritorio |
+| [AppStockDB-](https://github.com/mariotc1/AppStockDB-) | Python · Flask · PyQt5 | Gestión de stock |
+| [CapitalQuiz](https://github.com/mariotc1/CapitalQuiz) | Java / Android | Juego educativo |
+| [mariotc1.github.io](https://github.com/mariotc1/mariotc1.github.io) | GitHub Pages | Portfolio |
+| [appTaller](https://github.com/mariotc1/appTaller) | Java | App de taller |
+| [desarrollo_web_entorno_servidor](https://github.com/mariotc1/desarrollo_web_entorno_servidor) | PHP | Prácticas DWES |
+| [dessing_de_interfaces_web](https://github.com/mariotc1/dessing_de_interfaces_web) | DWEC | Diseño interfaces |
+| [despliegue-aplicaciones-web](https://github.com/mariotc1/despliegue-aplicaciones-web) | DevOps básico | Prácticas despliegue |
+| [desarrollo_web_entorno_cliente](https://github.com/mariotc1/desarrollo_web_entorno_cliente) | DWEC | Cliente web |
 
 ---
 
-## Organización / qué ver primero
-1. `pomodoro-landing` — landing y demo pública (link en README del repo).  
-2. `PomodoroApp` — app móvil; en el repo principal coloca capturas y APK / builds en Releases.  
-3. `fantasyHelper` — proyecto Python con README que muestre flujo de trabajo y dataset de ejemplo.  
-4. `CRM_Python` y `AppStockDB-` — proyectos de escritorio: añade `docs/screenshots/` y pasos claros de ejecución.
-
----
-
-## Contacto y enlaces
+## Contacto
 - GitHub: https://github.com/mariotc1  
-- Portfolio / landing: https://mariotc1.github.io  
+- Portfolio: https://mariotc1.github.io  
 - Email: mariotomecore@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/mario-tomé-core-114551343/
 
 ---
 
-<!-- Footer SVG -->
 <p align="center">
   <img src="./assets/footer.svg" alt="Footer - Mario Tomé Core" width="100%"/>
 </p>
