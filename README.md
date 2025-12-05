@@ -165,13 +165,6 @@ yo = DesarrolladorFullStack()
 
 ---
 
-## 📌 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🚀 Proyectos Destacados
 
 <div align="center">
