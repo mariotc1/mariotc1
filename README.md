@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Banner - Mario Tomé Core" width="100%"/>
+  <img src="./assets/banner.svg" alt="Banner - MARIO TOMÉ CORE" width="100%"/>
 </p>
 
 <!-- Typing SVG Animado -->
